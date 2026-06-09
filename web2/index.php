@@ -18,7 +18,7 @@ $nim  = "H1H024066";
 
 <p>NIM: <strong><?= $nim ?></strong></p>
 
-<p>Container: <strong>WEB-WEB</strong></p>
+<p>Container: <strong>WEB-2</strong></p>
 
 </body>
 </html>
